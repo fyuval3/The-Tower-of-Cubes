@@ -1,4 +1,4 @@
-# Tower of Cubes
+# Tower of Cubes 🟦🟥
 
 I developed this addictive Android hyper-casual game along with two of my fellow Computer Science students.
 
