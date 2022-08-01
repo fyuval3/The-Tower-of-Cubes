@@ -1,1 +1,1 @@
-# The-Tower-of-Cubes
+# Tower of Cubes
