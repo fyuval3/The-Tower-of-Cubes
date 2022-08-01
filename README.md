@@ -11,7 +11,3 @@ The player beats the level when the entire Red tower has turned into a Blue towe
 
 |<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.imgur.com/fjCXZpq.jpg" width="392" height="872">                |<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.imgur.com/QSOZbNJ.jpg" width="392" height="872">                          |
 |----------------|-------------------------------|
-
-
-
-
